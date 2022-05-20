@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioAsr&label=Profile%20views&color=0e75b6&style=flat" alt="Sego" /> </p>
+
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">I am a front end developer</h3>
 
