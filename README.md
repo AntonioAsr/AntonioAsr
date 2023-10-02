@@ -5,7 +5,7 @@
 
 - 👨‍💻 I currently work at [Maglabs Limited](https://www.maglabs.net/)
 
-- 🌱 I’m currently learning **Typescript, React Native and WebSockets**
+- 🌱 I’m currently learning **Typescript, Vue, Nuxt and WebSockets**
 
 - 💬  Ask me about **React, JavaScript**
 
